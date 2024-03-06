@@ -49,7 +49,15 @@ function App() {
           <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src={instagramImg} alt="Instagram" /></a>
           <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"><img src={whatsappImg} alt="WhatsApp" /></a>
           <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer"><img src={youtubeImg} alt="YouTube" /></a>
+          </div>
+
+      <footer className="footer">
+        <div className="brand">"O Nome do seu Restaurante ®"</div>
+        <div className="info">
+          Rua ********* ******** 93, Bairro - Rio de Janeiro - RJ - Brasil - CEP 00000-000 <br />
+          Horário de Funcionamento: De segunda a sexta de 9:00 às 16:00 - Sábado. 8:00 às 19:00 - Domingos e feriados 8:00 às 20:00.
         </div>
+      </footer>
     </>
   );
 }

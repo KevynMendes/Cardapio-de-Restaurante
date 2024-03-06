@@ -159,5 +159,25 @@ h2 {
   text-align: center;
   font-weight: bold;
   margin-bottom: 0.5rem;
+}
 
+/*footer*/
+
+.brand{
+  background-color: #148fb8;
+  color: #fff;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  width: 118.5%;
+  margin-left: -7.2rem;
+  text-align: center;
+}
+
+.info{
+  background-color: #dcdcdc;
+  color: #121212;
+  border-radius: 0.3rem;
+  margin-bottom: -2rem;
+  width: 118.5%;
+  margin-left: -7.2rem;
 }
