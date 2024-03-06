@@ -13,7 +13,7 @@ import reciclagemImg from './assets/apoio/reciclagem.png';
 
 import Navegacao from './navegacao';
 import ItemCardapio from './ItemCardapio';
-import { entradas, pratosPrincipais, sobremesas, bebidas, drinks } from './cardapio';
+import { entradas, pratosPrincipais, sobremesas, bebidas, drinks} from './cardapio';
 
 function App() {
   const [paginaSelecionada, alterarPaginaSelecionada] = React.useState(0);
